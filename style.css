@@ -1,0 +1,51 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #eaeaea;
+  margin: 0;
+  padding: 20px;
+}
+
+.cv-container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.job-title {
+  text-align: center;
+  font-size: 18px;
+  color: #777;
+  margin-bottom: 30px;
+}
+
+section {
+  margin-bottom: 25px;
+}
+
+h2 {
+  color: #34495e;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
